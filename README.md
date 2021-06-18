@@ -32,10 +32,17 @@ CIRCUITOS EN SERIE Y CIRCUITOS EN PARALELO
   
   2. MARCO TEÓRICO
   
+  CAPÍTULO #5:
+  
   ![image](https://user-images.githubusercontent.com/85263529/122511517-ff64b480-cfcc-11eb-8107-dbc53d99c668.png)
+  
+  CAPÍTULO #6:
+  
+  ![image](https://user-images.githubusercontent.com/85263529/122514246-3d63d780-cfd1-11eb-9cd2-4bf4097ffa5b.png)
+
 
   
-  3. ECPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
+  3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS:
 
 1. Los voltímetros de la figura 5-44 tienen auto polaridad. Determine la lectura
 de cada medidor, con la magnitud y el signo correctos.
@@ -125,6 +132,135 @@ b. La caída de voltaje en cada resistor en el circuito.
 c. El voltaje en las terminales abiertas a y b.
 
 ![image](https://user-images.githubusercontent.com/85263529/122513061-7ac76580-cfcf-11eb-8ee2-98579a7aa5a9.png)
+
+Resistencia interna de fuentes de voltaje
+33. Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de
+14.2 V. Cuando se conecta a una carga de 100 ohms, el voltaje medido entre las
+terminales de la batería cae a 6.8 V.
+a)Determine la resistencia interna de la batería.
+
+![image](https://user-images.githubusercontent.com/85263529/122514411-903d8f00-cfd1-11eb-966f-935d34a6c25d.png)
+
+b. Si la carga de 100 ohms fuera reemplazada con una de 200 ohms_, .que voltaje se
+mediría en las terminales de la batería?
+
+
+![image](https://user-images.githubusercontent.com/85263529/122514614-d2ff6700-cfd1-11eb-9a1a-4b1725ea1b39.png)
+
+
+5-10 Efectos de carga del amperímetro
+35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito.
+Si un amperímetro que tiene una resistencia interna de 50 ohms se usa para
+medir la corriente en los circuitos, determine la corriente a través de él y calcule
+el efecto de carga en cada circuito.
+
+
+![image](https://user-images.githubusercontent.com/85263529/122514671-e90d2780-cfd1-11eb-9b95-b103f1980e1c.png)
+
+![image](https://user-images.githubusercontent.com/85263529/122514743-0e019a80-cfd2-11eb-98d6-be5e13852c25.png)
+
+
+5-11 Análisis de circuitos por computadora
+37. Vea los circuitos de la figura 5-66. Utilice Multisim para encontrar lo siguiente:
+a. La corriente en cada circuito.
+b. El voltaje en cada resistor en el circuito.
+
+![image](https://user-images.githubusercontent.com/85263529/122514799-22459780-cfd2-11eb-8dff-bd75ddd0b34e.png)
+
+39. Vea el circuito de la figura 5-62. Use PSpice para encontrar lo siguiente:
+a. La corriente en el circuito.
+b. El voltaje en cada resistor en el circuito.
+
+![image](https://user-images.githubusercontent.com/85263529/122514833-2e315980-cfd2-11eb-97b3-7d441c68c2d0.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122514849-325d7700-cfd2-11eb-8869-9d72497eed80.png)
+
+
+6-1 Circuitos en paralelo
+1. Indique cuales de los elementos en la figura 6-44 están conectados en paralelo
+y cuales en serie.
+
+![image](https://user-images.githubusercontent.com/85263529/122514895-41442980-cfd2-11eb-819e-b5165fb64798.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122514928-4bfebe80-cfd2-11eb-91a8-2843ef8abf6a.png)
+
+3. Sin cambiar las posiciones de los componentes, muestre al menos una forma
+de conectar en paralelo todos los elementos de la figura 6-46.
+
+![image](https://user-images.githubusercontent.com/85263529/122515158-a39d2a00-cfd2-11eb-89d8-3dfc7f7c277a.png)
+
+6-2 Ley de corriente de Kirchhoff
+5. Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones
+de las corrientes que se indican en cada red que se muestra en la figura
+6-48.
+
+![image](https://user-images.githubusercontent.com/85263529/122515247-c3345280-cfd2-11eb-8f1d-688d398e85b0.png)
+
+![image](https://user-images.githubusercontent.com/85263529/122515268-caf3f700-cfd2-11eb-83cf-3dc6a97963cf.png)
+
+![image](https://user-images.githubusercontent.com/85263529/122515290-d5ae8c00-cfd2-11eb-98b5-232502c59abc.png)
+
+7. Considere la red de la figura 6-50.
+a. Calcule las corrientes I1, I2, I3 e I4.
+b. Determine el valor de la resistencia R3.
+
+
+![image](https://user-images.githubusercontent.com/85263529/122515360-f4ad1e00-cfd2-11eb-8486-5aea03785c0e.png)
+
+9. Vea la red de la figura 6-52: 
+
+![image](https://user-images.githubusercontent.com/85263529/122515519-2de58e00-cfd3-11eb-99ed-11276e53982b.png)
+
+a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes desconocidas, I1, I2, I3 e I4. 
+
+![image](https://user-images.githubusercontent.com/85263529/122515569-3fc73100-cfd3-11eb-82fa-4c7f4dd53bd4.png)
+
+11. Calcule la conductancia total y resistencia total de cada red que se muestra en la figura 6-54
+
+![image](https://user-images.githubusercontent.com/85263529/122515599-4ce42000-cfd3-11eb-9764-c72af22fb28c.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122515725-78ffa100-cfd3-11eb-9a6c-d5196dc1025e.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122515836-9cc2e700-cfd3-11eb-917e-6ee6b6f08513.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122515901-b6642e80-cfd3-11eb-8ca3-a82c268e17a9.png)
+
+
+13. Para las redes de la figura 6-56 determine el valor de la(s) resistencia(s) desconocidas para que resulte la resistencia total que se indica
+
+![image](https://user-images.githubusercontent.com/85263529/122515986-d1cf3980-cfd3-11eb-8ce4-86799106fd72.png)
+
+
+15. Vea la red de la figura 6-58:
+
+![image](https://user-images.githubusercontent.com/85263529/122516173-0b07a980-cfd4-11eb-9e4c-3d5b33dd76dd.png)
+
+
+ a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200 Ω.
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/122516477-72bdf480-cfd4-11eb-8aa0-26d198fbabd4.png)
+
+
+b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otros resistores.
+
+![image](https://user-images.githubusercontent.com/85263529/122516850-e3fda780-cfd4-11eb-92c1-e5adc3f9ac6e.png)
+
+
+ c. ¿Cuánta corriente debe aplicarse a toda la red?
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/122516990-14454600-cfd5-11eb-91d6-4555eb18954d.png)
+
+17. Vea la red de la figura 6-60: 
+
+![image](https://user-images.githubusercontent.com/85263529/122517014-1d361780-cfd5-11eb-8a66-50449b93e9f4.png)
+
+
+
 
 
 

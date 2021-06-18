@@ -259,6 +259,58 @@ b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otr
 
 ![image](https://user-images.githubusercontent.com/85263529/122517014-1d361780-cfd5-11eb-8a66-50449b93e9f4.png)
 
+a. Encuentre los voltajes a través de R1 y R2. 
+
+![image](https://user-images.githubusercontent.com/85263529/122518384-bd407080-cfd6-11eb-9c0d-284376266e01.png)
+
+b. Determine la corriente I2.
+
+![image](https://user-images.githubusercontent.com/85263529/122518497-e52fd400-cfd6-11eb-8166-767b654f46d1.png)
+
+19. Determine la resistencia total de cada red de la figura 6-62
+
+![image](https://user-images.githubusercontent.com/85263529/122518598-08f31a00-cfd7-11eb-9c4e-4602e7ea6b65.png)
+
+![image](https://user-images.githubusercontent.com/85263529/122518859-638c7600-cfd7-11eb-9994-4a55897aeb67.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122518651-14dedc00-cfd7-11eb-9f18-2af45c828334.png)
+
+![image](https://user-images.githubusercontent.com/85263529/122518905-7141fb80-cfd7-11eb-8cca-872a9661816e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/85263529/122518669-1dcfad80-cfd7-11eb-8a32-127d9ffff9e7.png)
+
+![image](https://user-images.githubusercontent.com/85263529/122518956-83239e80-cfd7-11eb-8a2f-b333e918ee7b.png)
+
+21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican
+
+![image](https://user-images.githubusercontent.com/85263529/122519119-b82ff100-cfd7-11eb-92f5-213bc94c2c5f.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122519865-8cf9d180-cfd8-11eb-9091-50194ff4701e.png)
+
+
+
+23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la figura.
+
+
+![image](https://user-images.githubusercontent.com/85263529/122520542-553f5980-cfd9-11eb-8946-bf4a1c68ab65.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122520454-3b057b80-cfd9-11eb-991f-b31564ddefce.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/122520496-46f13d80-cfd9-11eb-89fa-8abb82eedc50.png)
+
+
+
+
+
+
+
+
 
 
 

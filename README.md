@@ -408,16 +408,17 @@ d. Determine la potencia disipada por cada resistor. Verifique que la potencia t
 
 a. Calcule la corriente a través de cada resistor en el circuito.
 
+![imagen](https://user-images.githubusercontent.com/85263529/122575057-f51ad880-d015-11eb-9dd1-d8e31f38244d.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122575130-082da880-d016-11eb-8bce-9a4ba57b395c.png)
 
 b. Determine la corriente total suministrada por la fuente de voltaje.
 
-
-c. Encuentre la potencia disipada por cada resistor.
-
+![imagen](https://user-images.githubusercontent.com/85263529/122574986-dddbeb00-d015-11eb-94b9-70528609301a.png)
 
 41. En el circuito de la figura 6-83:
 
-![imagen](https://user-images.githubusercontent.com/85263529/122526668-2bd5fc00-cfe0-11eb-8b0b-a5b5cdaafbda.png)
+![imagen](https://user-images.githubusercontent.com/85263529/122574693-89387000-d015-11eb-91cc-4f55c2d70173.png)
 
 a. Determine los valores de todos los resistores.
 

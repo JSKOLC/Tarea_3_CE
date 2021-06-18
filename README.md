@@ -442,11 +442,17 @@ d. Encuentre la potencia disipada por los resistores R2, R3 y R4.
 
 a. Determine la lectura de voltaje que indicará el medidor.
 
+![imagen](https://user-images.githubusercontent.com/85263529/122532937-a1dd6180-cfe6-11eb-8b78-1945ffcf7fb4.png)
+
 b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje indicado.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122532894-95f19f80-cfe6-11eb-8c26-b0a4874cacc2.png)
 
 47.- Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de50 k?
 
 ![imagen](https://user-images.githubusercontent.com/85263529/122527044-9424dd80-cfe0-11eb-93cc-5eada0c29b16.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122532819-85d9c000-cfe6-11eb-808b-4952c229d49b.png)
 
 6-8Análisis por computadora
 

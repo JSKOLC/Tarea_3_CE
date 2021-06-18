@@ -374,18 +374,91 @@ b. Determine la corriente I2.
 
 37. Vea el circuito de la figura 6-79.
 
+![imagen](https://user-images.githubusercontent.com/85263529/122526022-77d47100-cfdf-11eb-8bed-760bbdd1bd40.png)
+
+a. Encuentre la resistencia total RT y la corriente I a través de la fuente de voltaje.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526176-a6524c00-cfdf-11eb-905c-769c0c7cc55c.png)
+
+b. Encuentre todas las corrientes desconocidas en el circuito.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526272-bbc77600-cfdf-11eb-94f3-740d01a9ebb1.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526327-c7b33800-cfdf-11eb-85ae-6b1da5e72da3.png)
+
+c Verifique la ley de corriente de Kirchhoff en el nodo a.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526392-dac60800-cfdf-11eb-9dfe-a19d3a3c365c.png)
+
+d. Determine la potencia disipada por cada resistor. Verifique que la potencia total disipada por los resistores es igual a la potencia suministrada por la fuente de voltaje
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526454-ed404180-cfdf-11eb-83b0-b04485431f65.png)
+
+39. Vea el circuito de la figura 6-81:
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526585-14970e80-cfe0-11eb-9391-1ac32f2baedd.png)
+
+a. Calcule la corriente a través de cada resistor en el circuito.
 
 
+b. Determine la corriente total suministrada por la fuente de voltaje.
 
 
+c. Encuentre la potencia disipada por cada resistor.
 
 
+41. En el circuito de la figura 6-83:
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526668-2bd5fc00-cfe0-11eb-8b0b-a5b5cdaafbda.png)
+
+a. Determine los valores de todos los resistores.
 
 
+b. Calcule las corrientes a través de R1, R2y R4.
 
 
+c. Encuentre las corrientes I1e I2.
 
 
+d. Encuentre la potencia disipada por los resistores R2, R3 y R4.
+
+43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas. Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es suficiente para hacer que el fusible se abra?
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526847-5a53d700-cfe0-11eb-88a5-991372891408.png)
+
+6-7Efectos de carga en el voltímetro 
+
+45. Un voltímetro con una resistencia interna de 1 Mse usa para medir el voltaje que se indica en el circuito de la figura 6-86.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122526940-78213c00-cfe0-11eb-9091-a3c778e14d73.png)
+
+a. Determine la lectura de voltaje que indicará el medidor.
+
+b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje indicado.
+
+47.- Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de50 k?
+
+![imagen](https://user-images.githubusercontent.com/85263529/122527044-9424dd80-cfe0-11eb-93cc-5eada0c29b16.png)
+
+6-8Análisis por computadora
+
+49.- Utilice Multisim para encontrar la corriente a través de cada resistor en el circuito de la figura 6-79.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122527144-b0287f00-cfe0-11eb-8664-37b20ce5c885.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122527190-b880ba00-cfe0-11eb-99d3-42dac7a875da.png)
+
+51. Utilice Multisim para simular un voltímetro con una resistencia interna de 1MΩ, como se muestra en la figura 6-86
+
+![imagen](https://user-images.githubusercontent.com/85263529/122527299-cf271100-cfe0-11eb-8a8c-6ac0ee130d06.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122527322-d3ebc500-cfe0-11eb-83bb-71800469ad90.png)
+
+53. Utilice PSpice para encontrar la corriente a través de cada resistor en el circuito de la figura 6-79
+
+![imagen](https://user-images.githubusercontent.com/85263529/122527401-e6fe9500-cfe0-11eb-9cae-357c1ce11ba3.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122527444-ec5bdf80-cfe0-11eb-8640-e820fe7bb825.png)
 
 
 

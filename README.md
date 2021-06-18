@@ -176,15 +176,32 @@ voltaje de Kirchhoff para cada circuito.
 
 ![image](https://user-images.githubusercontent.com/85263529/122581110-5180f680-d01c-11eb-8b00-92fa437769a4.png)
 
-Vsalida=Ventrada3/(6+3+9)=1/6
 
-Vsalida=Ventrada3/(6+3)  3/9=1
+V1=(R.E)/(R1+R2)
 
-Vsalida=Ventrada5/(5+8)=1/13
 
-Vsalida=Ventrada3/(2+8)=3.8
+V1=((6).(24))/((6)+(3) )=16 V
 
-2) Vsalida=Ventrada3/(6+3)  3/9=1
+V2=(R2.E)/(R2+R3)
+
+
+V2=((3).(24))/((3)+(5) )=9V
+
+
+V3=(R3.E)/(R4+R3)
+
+
+
+V3=((5).(24))/((5)+(8) )=9.23 V
+
+V4=(R5.E)/(R5+R6)
+
+
+V4=((8).(24))/((8)+(2) )=19 V
+
+
+
+
 
 Vsalida=Ventrada4300/(4300+9100)=0.35
 Vsalida=Ventrada4300/(9100+4300)=0.32

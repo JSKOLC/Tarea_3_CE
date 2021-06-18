@@ -67,11 +67,20 @@ la magnitud y la polaridad del voltaje V.
 ![image](https://user-images.githubusercontent.com/85263529/122512748-f674e280-cfce-11eb-86c7-960615ad06d1.png)
 
 A)	 33 V total
+
 16V+10	V+V=33V
+
 16V+10V-33V=-V
+
 26V-33V=-V
+
 V=7
-B)	6V+9V+3V+3V = 21V 
+
+B)	
+
+6V+9V+3V+3V = 21V
+
+
  
 
 
@@ -80,8 +89,11 @@ B)	6V+9V+3V+3V = 21V
 ![image](https://user-images.githubusercontent.com/85263529/122512820-15737480-cfcf-11eb-979c-e5ee28d4b87d.png)
 
 10V+36W+V2=24V
+
 10V+2,60V+V2=24V
+
 V2=-10V-2,60V+24V
+
 V2=11,4 v
 
 9. Determine la resistencia total de las redes que se muestran en la figura 5-52.
@@ -140,6 +152,51 @@ b. La caída de voltaje en cada resistor en el circuito.
 c. El voltaje en las terminales abiertas a y b.
 
 ![image](https://user-images.githubusercontent.com/85263529/122513061-7ac76580-cfcf-11eb-8ee2-98579a7aa5a9.png)
+
+21. Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de
+voltaje para cada circuito. Encuentre la corriente para cada circuito.
+
+![image](https://user-images.githubusercontent.com/85263529/122580836-02d35c80-d01c-11eb-908c-a15560815640.png)
+
+Ι=(12 V)/2700Ω=0.0044A
+
+
+2)
+
+Ι=(12 V)/1800Ω=0.0066A
+
+3)
+
+Ι=(12 V)/3300Ω=0.0036A
+
+
+23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor
+en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de
+voltaje de Kirchhoff para cada circuito.
+
+![image](https://user-images.githubusercontent.com/85263529/122581110-5180f680-d01c-11eb-8b00-92fa437769a4.png)
+
+Vsalida=Ventrada3/(6+3+9)=1/6
+
+Vsalida=Ventrada3/(6+3)  3/9=1
+
+Vsalida=Ventrada5/(5+8)=1/13
+
+Vsalida=Ventrada3/(2+8)=3.8
+
+2) Vsalida=Ventrada3/(6+3)  3/9=1
+
+Vsalida=Ventrada4300/(4300+9100)=0.35
+Vsalida=Ventrada4300/(9100+4300)=0.32
+Vsalida=Ventrada9100/(1000+7800)=0.8668
+
+
+
+
+
+
+
+
 
 Resistencia interna de fuentes de voltaje
 33. Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de
@@ -488,6 +545,12 @@ b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaj
   4. VIDEO
   https://youtu.be/mlDGpq36Pas
   5. CONCLUSIONES
+
+-Como conclusión diremos que un circuito eléctrico es un medio para poder hacer que exista una circulación de electrones y que estos me desarrollen un trabajo.
+
+-Existen varios tipos de circuitos eléctricos dependiendo de varios factores, como son tipo de corriente electrica, tipo de carga, tipo de conexión.
+
+-El voltaje en un circuito en serie se distribuye en cada elemento,mientras que la corriente permanece la misma. Rt= Vs/I donde Rt es la resistencia total.
   
   6. BIBLIOGRAFÍA
  

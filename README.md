@@ -319,7 +319,7 @@ b. Determine la corriente I2.
 
   
   4. VIDEO
-  
+  https://youtu.be/mlDGpq36Pas
   5. CONCLUSIONES
   
   6. BIBLIOGRAFÍA

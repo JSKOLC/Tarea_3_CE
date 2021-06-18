@@ -304,6 +304,88 @@ b. Determine la corriente I2.
 
 ![image](https://user-images.githubusercontent.com/85263529/122520496-46f13d80-cfd9-11eb-89fa-8abb82eedc50.png)
 
+25.- Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la red de la figura 6-68.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122523855-190df800-cfdd-11eb-91b3-eb493c82d943.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122523897-26c37d80-cfdd-11eb-97db-89f5ef66c6d2.png)
+
+6-4 Fuentes de voltaje en paralelo
+
+27.- Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una carga de 100 Ω , como se muestra en la figura 6-69. Determine la corriente en la carga y en cada batería
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524030-4b1f5a00-cfdd-11eb-8f24-fedab1de6c8a.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524093-5a9ea300-cfdd-11eb-888d-a9c48d1263d4.png)
+
+6-5 Regla del divisor de corriente 
+
+29. Utilice la regla del divisor de corriente para encontrar las corrientes I1e I2 en las redes de la figura 6-71.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524164-6f7b3680-cfdd-11eb-8d73-f199b83dbe24.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524206-7efa7f80-cfdd-11eb-8c1f-103983cda453.png)
+
+31. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524273-90438c00-cfdd-11eb-8447-07d3d22378d2.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524361-a8b3a680-cfdd-11eb-9d98-2c68f2649c2f.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524421-b832ef80-cfdd-11eb-8fbe-c8b11567b836.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524583-ea445180-cfdd-11eb-87aa-9e95734b759b.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524619-f9c39a80-cfdd-11eb-8935-ac65e66ed639.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524720-152ea580-cfde-11eb-8591-1a3039b09e54.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524780-28da0c00-cfde-11eb-8d03-c7d6fdad8160.png)
+
+33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524846-3ee7cc80-cfde-11eb-9186-71e192833d54.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122524911-4e671580-cfde-11eb-85da-77af6c9ce04f.png)
+
+35. Vea el circuito de la figura 6-77:
+
+![imagen](https://user-images.githubusercontent.com/85263529/122525110-83736800-cfde-11eb-8877-055c3f77d7fc.png)
+
+  a. Determine la resistencia equivalente RT, del circuito.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122525164-9423de00-cfde-11eb-85ab-995f10612e4b.png)
+
+  b. Encuentre la corriente I.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122525218-a3a32700-cfde-11eb-9b07-77e5ab4be136.png)
+
+  c. Use la regla del divisor de corriente para determinar la corriente en cada resistor.
+
+![imagen](https://user-images.githubusercontent.com/85263529/122525294-b74e8d80-cfde-11eb-9738-bb0b57369459.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/122525374-c9303080-cfde-11eb-8822-3cd154170841.png)
+
+  d. Verifique la ley de corriente de Kirchhoff en el nodo a
+
+![imagen](https://user-images.githubusercontent.com/85263529/122525465-dea55a80-cfde-11eb-8e85-0507202724f9.png)
+
+6-6Análisis de circuitos en paralelo
+
+37. Vea el circuito de la figura 6-79.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

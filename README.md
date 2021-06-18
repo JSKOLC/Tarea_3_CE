@@ -430,9 +430,6 @@ c. Encuentre las corrientes I1e I2.
 
 d. Encuentre la potencia disipada por los resistores R2, R3 y R4.
 
-43. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas. Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es suficiente para hacer que el fusible se abra?
-
-![imagen](https://user-images.githubusercontent.com/85263529/122526847-5a53d700-cfe0-11eb-88a5-991372891408.png)
 
 6-7Efectos de carga en el voltímetro 
 

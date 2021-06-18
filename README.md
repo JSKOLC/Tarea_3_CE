@@ -24,6 +24,11 @@ CIRCUITOS EN SERIE Y CIRCUITOS EN PARALELO
 
 * Conocer el concepto de electricidad y resistencia.
 
+* Saber analizar circuitos de corriente continua aplicando directamente las Leyes de Kirchhoff.
+
+
+* Comprender el estudio topológico de los circuitos y saber aplicar los métodos sistemáticos de análisis (corrientes o tensiones) para una red eléctrica dada
+
   
   2. MARCO TEÓRICO
   

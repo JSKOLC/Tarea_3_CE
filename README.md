@@ -14,8 +14,10 @@ CIRCUITOS EN SERIE Y CIRCUITOS EN PARALELO
 
   1. OBJETIVOS
   
-*Comprobar mediante un multitester las características de un circuito en paralelo tanto teóricamente como prácticamente.
+* Aplicar ley de Ohm para saber cuál es el máximo de corriente que se le puede otorgar alcircuito, según las resistencias y diferencia de potencial. 
 
+
+* Comprobar mediante un multitester las características de un circuito en paralelo tanto teóricamente como prácticamente.
 
 * Ser capaces de armarcircuitos en, paralelo , identificando propiedades de corriente y voltaje que se da en este tipo de conexión.
 

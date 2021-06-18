@@ -66,6 +66,14 @@ la magnitud y la polaridad del voltaje V.
 
 ![image](https://user-images.githubusercontent.com/85263529/122512748-f674e280-cfce-11eb-86c7-960615ad06d1.png)
 
+A)	 33 V total
+16V+10	V+V=33V
+16V+10V-33V=-V
+26V-33V=-V
+V=7
+B)	6V+9V+3V+3V = 21V 
+ 
+
 
 7. Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
 

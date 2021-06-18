@@ -14,6 +14,15 @@ CIRCUITOS EN SERIE Y CIRCUITOS EN PARALELO
 
   1. OBJETIVOS
   
+*Comprobar mediante un multitester las características de un circuito en paralelo tanto teóricamente como prácticamente.
+
+
+* Ser capaces de armarcircuitos en, paralelo , identificando propiedades de corriente y voltaje que se da en este tipo de conexión.
+
+
+* Conocer el concepto de electricidad y resistencia.
+
+  
   2. MARCO TEÓRICO
   
   ![image](https://user-images.githubusercontent.com/85263529/122511517-ff64b480-cfcc-11eb-8107-dbc53d99c668.png)
